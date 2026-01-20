@@ -13,7 +13,7 @@ function LeftSide() {
       </p>
       <p className="text-3xl"></p>
       <img
-        src="https://mixdesign.club/themeforest/braxton/img/avatars/1024x1024_a03.webp"
+        src="https://www.phot.ai/ai-art-generator/inspire/inspire_id/6433d9c09c118d1bf9cbf279"
         alt="Img"
         className="rounded-3xl "
       />
@@ -61,3 +61,4 @@ function LeftSide() {
 }
 
 export default LeftSide;
+
